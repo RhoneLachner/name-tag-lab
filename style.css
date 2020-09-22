@@ -9,3 +9,23 @@ body, html {
     box-sizing: border-box;
 }
 
+body {
+    width: 300px;
+    height: 200px;
+    border: 3px;
+    border-color: black;
+    background-color: darkseagreen;
+    text-align: center;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+h2 {
+    color: black;
+    text-align: center;
+}
+p {
+    color: black;
+    text-align: center;
+}
