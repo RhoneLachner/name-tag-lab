@@ -10,7 +10,7 @@ body, html {
 }
 
 main {
-    
+    orientation: center;
     width: 400px;
     height: 260px;
     border-width: 3px;
