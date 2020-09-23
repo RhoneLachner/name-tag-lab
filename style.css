@@ -17,7 +17,12 @@ div {
     background-size: cover;
     background-attachment: fixed;
 }
-
+.buttons {
+    flex-direction: column;
+    align-content: space-around ;
+    orientation: below;
+  
+}
 main {
     orientation: center;
     width: 400px;
